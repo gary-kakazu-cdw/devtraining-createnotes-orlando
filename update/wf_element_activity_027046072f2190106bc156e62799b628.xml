@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_element_activity">
+    <wf_element_activity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <attributes/>
+        <base_provider display_value="REST Web Service">8817a25e37222100aa40cc9fbe41f106</base_provider>
+        <category/>
+        <checked_out_by display_value="Gary Admin Kakazu">eb5da1062f0110106bc156e62799b6cc</checked_out_by>
+        <default_height/>
+        <default_width/>
+        <description/>
+        <image>images/heisenberg_icons/workflow_ie8/provider_rest.png</image>
+        <input_meta/>
+        <input_process_script/>
+        <input_transform>{"web_service_message":"","web_service_message_function":"","web_service_endpoint":"","parameters":"[]","headers":"[]","queryParameters":"[]","midCapabilities":"18409d8007482000dada43c0d1021e8f","use_mid_server":"false","time_out":"10","auth_type":"use_existing_credentials","credentials":"","protocol_profile":"","oauth_entity_profile":""}</input_transform>
+        <local_variables/>
+        <name>Message 1</name>
+        <output_meta/>
+        <output_process_script/>
+        <output_transform/>
+        <processing_script/>
+        <sample_payloads>{}</sample_payloads>
+        <short_description/>
+        <style/>
+        <sys_class_name>wf_element_activity</sys_class_name>
+        <sys_created_by>admin.gkakazu</sys_created_by>
+        <sys_created_on>2020-06-26 13:47:22</sys_created_on>
+        <sys_id>027046072f2190106bc156e62799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Message 1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>wf_element_activity_027046072f2190106bc156e62799b628</sys_update_name>
+        <sys_updated_by>admin.gkakazu</sys_updated_by>
+        <sys_updated_on>2020-06-26 13:47:22</sys_updated_on>
+        <version_container_id>ad900a0f2fed50106bc156e62799b6e3</version_container_id>
+    </wf_element_activity>
+    <sys_translated_text action="delete_multiple" query="documentkey=027046072f2190106bc156e62799b628"/>
+    <wf_versionable action="INSERT_OR_UPDATE">
+        <checked_out>2020-06-26 13:47:22</checked_out>
+        <checked_out_by display_value="Gary Admin Kakazu">eb5da1062f0110106bc156e62799b6cc</checked_out_by>
+        <published>false</published>
+        <sys_created_by>admin.gkakazu</sys_created_by>
+        <sys_created_on>2020-06-26 13:47:22</sys_created_on>
+        <sys_id>219086072f2190106bc156e62799b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.gkakazu</sys_updated_by>
+        <sys_updated_on>2020-06-26 13:47:22</sys_updated_on>
+        <valid_from/>
+        <valid_to/>
+        <version>1</version>
+        <version_container_id>ad900a0f2fed50106bc156e62799b6e3</version_container_id>
+        <wf_element_definition display_value="Message 1">027046072f2190106bc156e62799b628</wf_element_definition>
+    </wf_versionable>
+</record_update>
